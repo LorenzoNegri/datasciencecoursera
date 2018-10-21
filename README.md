@@ -1,2 +1,2 @@
-# datasciencecoursera
-testing repo for ds course
+# datascience
+testing repo for ds
